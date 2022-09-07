@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Passion+One&display=swap");
+
+.circle {
+  background-color: #ffe100;
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #4b0d49;
+  font-family: "Passion One", cursive;
+  font-size: 4.5rem;
+  letter-spacing: 1px;
+}
