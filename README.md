@@ -1,4 +1,4 @@
-[![Quality gate](http://localhost:9000/api/project_badges/quality_gate?project=my_sonarqube_task&token=d30dd8120a05d1926c684be77dd460694cb622e9)](http://localhost:9000/dashboard?id=my_sonarqube_task)
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=kevinrwinter_counter-redux)
 
 # counter-redux
 
